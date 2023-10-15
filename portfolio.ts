@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
+  url: '',
   linkedin: 'https://www.linkedin.com/in/eyob-zebene-b8359b21a/',
   github: 'https://github.com/Eyob14',
   instagram: 'https://www.instagram.com/eyoba_29/',
